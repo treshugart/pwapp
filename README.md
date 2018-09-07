@@ -1,8 +1,8 @@
-# pwapp (name might change)
+# pwapp
 
 > Launch and package any web app as a desktop app.
 
-## Install (coming soon, you have to clone right now)
+## Install
 
 ```sh
 npm i -g pwapp

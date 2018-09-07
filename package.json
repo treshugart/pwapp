@@ -1,0 +1,22 @@
+{
+  "name": "appify",
+  "version": "0.0.0",
+  "description": "Launch and package any web app as a desktop app.",
+  "bin": "bin.js",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^2.0.8",
+    "electron-packager": "^12.1.1",
+    "electron-window-state": "^5.0.0",
+    "execa": "^1.0.0",
+    "fs-extra": "^7.0.0",
+    "gm": "^1.23.1",
+    "meow": "^5.0.0",
+    "node-fetch": "^2.2.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Trey Shugart <treshugart@gmail.com>",
+  "license": "MIT"
+}

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const exec = require("execa");
 const meow = require("meow");
 const path = require("path");

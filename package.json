@@ -1,5 +1,5 @@
 {
-  "name": "appify",
+  "name": "pwapp",
   "version": "0.0.0",
   "description": "Launch and package any web app as a desktop app.",
   "bin": "bin.js",

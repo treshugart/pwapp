@@ -1,6 +1,6 @@
 {
   "name": "pwapp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Launch and package any web app as a desktop app.",
   "bin": "bin.js",
   "main": "index.js",
